@@ -2080,7 +2080,7 @@ get the sanity flag
 
 Enter "password" and then follow the error message still confused then watch this video
 
-{% file src="bypass_ctf-2025/abc.mp4" %}
+{% file src="../.gitbook/assets/abc.mp4" %}
 
 ![image.png](<../.gitbook/assets/image 28.png>)
 
