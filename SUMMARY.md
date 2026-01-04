@@ -25,5 +25,5 @@
 ***
 
 * [CTF Event Writeups](ctf-event-writeups/README.md)
-  * [Bypass CTF](ctf-event-writeups/bypass-ctf.md)
+  * [Bypass CTF](ctf-event-writeups/bypass_ctf-2025.md)
 * [About Me](about-me.md)
