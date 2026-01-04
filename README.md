@@ -16,12 +16,12 @@ layout:
     visible: true
 ---
 
-# Welcome
+# Welcome to Eth3real Notes
 
-Welcome to the GitBook starter template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
+Welcome to my personal knowledge base and documentation space. Here, I document my journey through the world of cybersecurity, focusing on Capture The Flag (CTF) challenges, penetration testing, and ethical hacking.
 
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+This space serves as a central repository for my writeups, techniques, and learnings from various platforms. Whether you are looking for a specific solution or just exploring different attack vectors, I hope you find these notes helpful.
 
 ### Jump right in
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-bolt">:bolt:</i></h4></td><td><strong>Quickstart</strong></td><td>Create your first site</td><td></td><td></td><td><a href="platforms/tryhackme/">tryhackme</a></td></tr><tr><td><h4><i class="fa-leaf">:leaf:</i></h4></td><td><strong>Editor basics</strong></td><td>Learn the basics of GitBook</td><td></td><td></td><td><a href="https://github.com/GitbookIO/gitbook-templates/blob/main/product-docs/broken-reference/README.md">https://github.com/GitbookIO/gitbook-templates/blob/main/product-docs/broken-reference/README.md</a></td></tr><tr><td><h4><i class="fa-globe-pointer">:globe-pointer:</i></h4></td><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td></td><td></td><td><a href="platforms/hackthebox/">hackthebox</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-computer">:computer:</i></h4></td><td><strong>Platforms</strong></td><td>Walkthroughs for TryHackMe, HackTheBox, and VulnHub machines.</td><td><a href="/broken/pages/PbYb0GukRhiS4qCHdRal">Broken link</a></td><td></td><td></td><td><a href="platforms/tryhackme/">tryhackme</a></td></tr><tr><td><h4><i class="fa-trophy">:trophy:</i></h4></td><td><strong>CTF Events</strong></td><td>Solutions and breakdown of challenges from live CTF competitions.</td><td><a href="ctf-event-writeups/">ctf-event-writeups</a></td><td></td><td></td><td><a href="https://github.com/GitbookIO/gitbook-templates/blob/main/product-docs/broken-reference/README.md">https://github.com/GitbookIO/gitbook-templates/blob/main/product-docs/broken-reference/README.md</a></td></tr><tr><td><h4><i class="fa-user-magnifying-glass">:user-magnifying-glass:</i></h4></td><td><strong>About Me</strong></td><td>Want to Learn more about me and my background and skills ?</td><td><a href="about-me.md">about-me.md</a></td><td></td><td></td><td><a href="platforms/hackthebox/">hackthebox</a></td></tr></tbody></table>

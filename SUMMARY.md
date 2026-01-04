@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Welcome to Eth3real Notes](README.md)
 
 ## Platforms
 
@@ -16,8 +16,10 @@
       * [Techonquer - 2025](platforms/tryhackme/challenge/hard/techonquer-2025.md)
 * [HackTheBox](platforms/hackthebox/README.md)
   * [Labs](platforms/hackthebox/labs/README.md)
+    * [Easy](platforms/hackthebox/labs/easy.md)
     * [Medium](platforms/hackthebox/labs/medium/README.md)
       * [Giveback](platforms/hackthebox/labs/medium/giveback.md)
+    * [Hard](platforms/hackthebox/labs/hard.md)
 * [VulnHub](platforms/vulnhub/README.md)
   * [Kioptrix (Series)](platforms/vulnhub/kioptrix-series/README.md)
     * [Level 1](platforms/vulnhub/kioptrix-series/level-1.md)
