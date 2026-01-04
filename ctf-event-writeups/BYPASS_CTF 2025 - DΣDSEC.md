@@ -779,7 +779,7 @@ ThepasswordIs:BYPASS_CTF{EIGHT_PIECES_OF_EIGHT}
 ## Solution
 
 1. It was a simple challenge as it is a stego chall I started with stegsolve tool and found the QR in red plane of the image 
-2. Scanned the QR got the flag 
+2. Scanned the QR got a string "SunlightRevealsAll" used this as a password to extract the file using steghide and got the flag
 
 ![image.png](BYPASS_CTF%202025%20-%20D%CE%A3DSEC/image%206.png)
 
@@ -787,14 +787,14 @@ ThepasswordIs:BYPASS_CTF{EIGHT_PIECES_OF_EIGHT}
 
 ## Tools
 
-- stegsolve
+- stegsolve , steghide
 
 ---
 
 ## Flag
 
 ```
-BYPASS_CTF{SunlightRevealsAll}
+BYPASS_CTF{Aztec_Gold_Curse_Lifted}
 ```
 
 ---
