@@ -146,7 +146,7 @@ Exploit the Reuse of Nonce
 
 2. Means to get the flag we simply need to do FLAG= CIPHER 1 (XOR) CIPHER2 (XOR) KNOWN PLAINTEXT
 
-![image.png](BYPASS_CTF%202025%20-%20D%CE%A3DSEC/image.png)
+![image.png](bypass_ctf-2025/image.png)
 
 ---
 
@@ -198,7 +198,7 @@ Decode the Message
 
 1. Simply past the Message string into CyberChef and it automatically detects A1Z26 Cipher
 
-![image.png](BYPASS_CTF%202025%20-%20D%CE%A3DSEC/image%201.png)
+![image.png](bypass_ctf-2025/image%201.png)
 
 ---
 
@@ -253,7 +253,7 @@ Decode this whitespace programming language
 
 1.Used a whitespace online decoder
 
-![image.png](BYPASS_CTF%202025%20-%20D%CE%A3DSEC/image%202.png)
+![image.png](bypass_ctf-2025/image%202.png)
 
 ---
 
@@ -622,7 +622,7 @@ To get the flag from the browser
 5. then finally got favicon.ico and there was Captain Jack Sparrow 
 6. used curl to download the image 
 
-![image.png](BYPASS_CTF%202025%20-%20D%CE%A3DSEC/image%203.png)
+![image.png](bypass_ctf-2025/image%203.png)
 
 ---
 
@@ -680,7 +680,7 @@ Decode the hidden message in Audio file
 2. so I searched for online pitch decoder when hovered over the notes we can see a word formed 
 ”BADFACE”
 
-![image.png](BYPASS_CTF%202025%20-%20D%CE%A3DSEC/image%204.png)
+![image.png](bypass_ctf-2025/image%204.png)
 
 ---
 
@@ -730,7 +730,7 @@ Reassemble the image and decode the flag
 1. I used canva whiteboard to Reassemble the image and then we can see that each piece of image has part of flag 
 2. Read All the letters “row wise” and string formed : GurcnffjbeqVf:OLCNFF_PGS{RVTUG_CVRPRF_BS_RVTUG}
 
-![image.png](BYPASS_CTF%202025%20-%20D%CE%A3DSEC/image%205.png)
+![image.png](bypass_ctf-2025/image%205.png)
 
 ---
 
@@ -781,7 +781,7 @@ ThepasswordIs:BYPASS_CTF{EIGHT_PIECES_OF_EIGHT}
 1. It was a simple challenge as it is a stego chall I started with stegsolve tool and found the QR in red plane of the image 
 2. Scanned the QR got a string "SunlightRevealsAll" used this as a password to extract the file using steghide and got the flag
 
-![image.png](BYPASS_CTF%202025%20-%20D%CE%A3DSEC/image%206.png)
+![image.png](bypass_ctf-2025/image%206.png)
 
 ---
 
@@ -823,7 +823,7 @@ Find the Flag in Image
 
 1. seems like stereogram so for that we know magic eye tool 
 
-![image.png](BYPASS_CTF%202025%20-%20D%CE%A3DSEC/image%207.png)
+![image.png](bypass_ctf-2025/image%207.png)
 
 ---
 
@@ -872,12 +872,12 @@ Find the Incident
 ”CREW ONBOARD AN ANCHORED TANKER NOTICED TWO UNAUTHORISED PERSONS NEAR THE DECK STORE. MASTER INFORMED GENERAL ALARM RAISED PA ANNOUNCEMENT MADE CREW MUSTERED. SEEING THE CREW"S ALERTNESS, THE INTRUDERS ESCAPED WITH SHIP'S STORES. INCIDENT REPORTED TO VTS, WHO DISPATCHED A PATROL BOAT. YOUR TASK IS TO USE THE DESCRIPTION TO LOCATE THE OFFICIAL INCIDENT NUMBER AND THE LOCATION OF THE INCIDENT+”
 2. google search about this lead me found the Golden Curl Incident : [https://www.recaap.org/resources/ck/files/Number of Incidents/2025/List of Incidents for 2025 (caa 18 Dec 2025).pdf](https://www.recaap.org/resources/ck/files/Number%20of%20Incidents/2025/List%20of%20Incidents%20for%202025%20(caa%2018%20Dec%202025).pdf)
 
-![image.png](BYPASS_CTF%202025%20-%20D%CE%A3DSEC/image%208.png)
+![image.png](bypass_ctf-2025/image%208.png)
 
 1. So the portcity is Belawan and searching about its captial city found Medan
 2. now for incident number I used site [https://icc-ccs.org/map/](https://icc-ccs.org/map/)
 
-![image.png](BYPASS_CTF%202025%20-%20D%CE%A3DSEC/image%209.png)
+![image.png](bypass_ctf-2025/image%209.png)
 
 ---
 
@@ -921,7 +921,7 @@ Trace the registration trail and find the street tied to it.
 
 1. lets lookup for whois history 
 
-![image.png](BYPASS_CTF%202025%20-%20D%CE%A3DSEC/image%2010.png)
+![image.png](bypass_ctf-2025/image%2010.png)
 
 ---
 
@@ -979,11 +979,11 @@ downloaded the image and ran zsteg on it and found the code
 
 `zsteg 03_jellies.png` 
 
-![image.png](BYPASS_CTF%202025%20-%20D%CE%A3DSEC/image%2011.png)
+![image.png](bypass_ctf-2025/image%2011.png)
 
 on doing a reverse image search on the image and looking for several hours found a website with the camera feed 
 
-![image.png](BYPASS_CTF%202025%20-%20D%CE%A3DSEC/image%2012.png)
+![image.png](bypass_ctf-2025/image%2012.png)
 
 `url :[https://www.geocam.ru/online/seajelly-cam/](https://www.geocam.ru/online/seajelly-cam/)`
 
@@ -1096,7 +1096,7 @@ objective is simply to determine the descriptor traditionally used for this clas
 
 On hunting the oceans of google found a web cam which was showing the aquarium 
 
-![image.png](BYPASS_CTF%202025%20-%20D%CE%A3DSEC/image%2013.png)
+![image.png](bypass_ctf-2025/image%2013.png)
 
 `url : [https://www.onecooltip.com/2024/07/dive-into-deep-aquarium-of-pacific.html](https://www.onecooltip.com/2024/07/dive-into-deep-aquarium-of-pacific.html)`
 
@@ -1155,7 +1155,7 @@ get the Study Partner
 
 ## Solution
 
-![image.png](BYPASS_CTF%202025%20-%20D%CE%A3DSEC/image%2014.png)
+![image.png](bypass_ctf-2025/image%2014.png)
 
 ---
 
@@ -1198,7 +1198,7 @@ Certificate_Partner
 
 ## Solution
 
-![image.png](BYPASS_CTF%202025%20-%20D%CE%A3DSEC/image%2015.png)
+![image.png](bypass_ctf-2025/image%2015.png)
 
 ---
 
@@ -1238,7 +1238,7 @@ To get the Snack Sponsor
 
 ## Solution
 
-![image.png](BYPASS_CTF%202025%20-%20D%CE%A3DSEC/image%2016.png)
+![image.png](bypass_ctf-2025/image%2016.png)
 
 ---
 
@@ -1283,7 +1283,7 @@ PlatForm at which we were playing ctf
 
 ## Solution
 
-![image.png](BYPASS_CTF%202025%20-%20D%CE%A3DSEC/image%2017.png)
+![image.png](bypass_ctf-2025/image%2017.png)
 
 ---
 
@@ -1326,7 +1326,7 @@ Platform SP 1
 
 ## Solution
 
-![image.png](BYPASS_CTF%202025%20-%20D%CE%A3DSEC/image%2018.png)
+![image.png](bypass_ctf-2025/image%2018.png)
 
 ---
 
@@ -1456,11 +1456,11 @@ then i selected one udp packet and made it as rtp
 
 select packet —> right click —> select decode as —> Then in the current section change none to rtp —> save 
 
-![image.png](BYPASS_CTF%202025%20-%20D%CE%A3DSEC/image%2019.png)
+![image.png](bypass_ctf-2025/image%2019.png)
 
 the flag was in the audio 
 
-![image.png](BYPASS_CTF%202025%20-%20D%CE%A3DSEC/image%2020.png)
+![image.png](bypass_ctf-2025/image%2020.png)
 
 ---
 
@@ -1511,9 +1511,9 @@ Find the Flag
 2. Found the transaction ( only one transaction when I solved ) and has a Destory method which matches the description 
 3. After searching in all related transactions I found the flag in this [https://sepolia.etherscan.io/tx/0x5900c616ad0877b45d60ed7c46dd1005a9d61857528888ca80bd2aa4f754a853](https://sepolia.etherscan.io/tx/0x5900c616ad0877b45d60ed7c46dd1005a9d61857528888ca80bd2aa4f754a853) 
 
-![image.png](BYPASS_CTF%202025%20-%20D%CE%A3DSEC/image%2021.png)
+![image.png](bypass_ctf-2025/image%2021.png)
 
-![image.png](BYPASS_CTF%202025%20-%20D%CE%A3DSEC/image%2022.png)
+![image.png](bypass_ctf-2025/image%2022.png)
 
 ---
 
@@ -1657,7 +1657,7 @@ cv2.imwrite('flag_sight.png', result)
 print("Success! Open 'flag_sight.png' to see the flag part.")
 ```
 
-![image.png](BYPASS_CTF%202025%20-%20D%CE%A3DSEC/image%2023.png)
+![image.png](bypass_ctf-2025/image%2023.png)
 
 ---
 
@@ -1705,7 +1705,7 @@ Figure out where is flag
 1. In this chall I started with the xxd dump of the File and Interestingly their is a huge output of base64 at the end so I copied that base64 pasted in CyberChef got the QR 
 2. Scanned the QR got the flag
 
-![image.png](BYPASS_CTF%202025%20-%20D%CE%A3DSEC/image%2024.png)
+![image.png](bypass_ctf-2025/image%2024.png)
 
 ---
 
@@ -2130,11 +2130,11 @@ Find 3 parts of flag in their discord server
 2. Second part was the name of Emoji on their dc server
 3. Third part in The Banner of “DEVA” username mod on server
 
-![image.png](BYPASS_CTF%202025%20-%20D%CE%A3DSEC/image%2025.png)
+![image.png](bypass_ctf-2025/image%2025.png)
 
-![image.png](BYPASS_CTF%202025%20-%20D%CE%A3DSEC/image%2026.png)
+![image.png](bypass_ctf-2025/image%2026.png)
 
-![image.png](BYPASS_CTF%202025%20-%20D%CE%A3DSEC/image%2027.png)
+![image.png](bypass_ctf-2025/image%2027.png)
 
 ---
 
@@ -2181,7 +2181,7 @@ get the sanity flag
 
 Just do what was told 
 
-![image.png](BYPASS_CTF%202025%20-%20D%CE%A3DSEC/image%2028.png)
+![image.png](bypass_ctf-2025/image%2028.png)
 
 ---
 
@@ -2232,7 +2232,7 @@ Figure out the correct link and then find the flag
 2. Found a user cyberfy with yt channel in the GPTs chat : [https://www.youtube.com/watch?v=-23Xu25lyUQ](https://www.youtube.com/watch?v=-23Xu25lyUQ)
 3. from this video link found the telegram channel and in the description found the flag 
 
-![image.png](BYPASS_CTF%202025%20-%20D%CE%A3DSEC/image%2029.png)
+![image.png](bypass_ctf-2025/image%2029.png)
 
 ---
 
@@ -2614,7 +2614,7 @@ to get the flag
 
 follow and comment to get the flag in dm  
 
-![image.png](BYPASS_CTF%202025%20-%20D%CE%A3DSEC/image%2030.png)
+![image.png](bypass_ctf-2025/image%2030.png)
 
 ---
 
