@@ -1,6 +1,2 @@
----
-icon: desktop
----
-
-# VulnHub
+# 🔓 VulnHub
 

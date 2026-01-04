@@ -2,7 +2,6 @@
 description: >-
   This directory will contain solution/writeups for HTB Walkthrough's and
   Challenges.
-icon: globe-pointer
 layout:
   width: default
   title:
@@ -19,7 +18,7 @@ layout:
     visible: true
 ---
 
-# HackTheBox
+# 🟩 HackTheBox
 
 ## Profile Link
 

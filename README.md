@@ -1,5 +1,4 @@
 ---
-icon: hand-wave
 layout:
   width: default
   title:
@@ -16,7 +15,7 @@ layout:
     visible: true
 ---
 
-# Welcome to Eth3real Notes
+# 👋 Welcome to Eth3real Notes
 
 Welcome to my personal knowledge base and documentation space. Here, I document my journey through the world of cybersecurity, focusing on Capture The Flag (CTF) challenges, penetration testing, and ethical hacking.
 

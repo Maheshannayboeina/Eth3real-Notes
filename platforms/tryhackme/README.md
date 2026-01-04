@@ -2,7 +2,6 @@
 description: >-
   This directory will contain solution/writeups for THM Walkthrough's and
   Challenges.
-icon: bolt
 layout:
   width: default
   title:
@@ -19,7 +18,7 @@ layout:
     visible: true
 ---
 
-# TryHackMe
+# 🟥 TryHackMe
 
 ## Profile Link&#x20;
 

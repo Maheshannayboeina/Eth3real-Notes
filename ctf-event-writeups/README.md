@@ -1,6 +1,2 @@
----
-icon: flag-pennant
----
-
-# CTF Event Writeups
+# 🚩 CTF Event Writeups
 

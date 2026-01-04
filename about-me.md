@@ -1,8 +1,4 @@
----
-icon: user-magnifying-glass
----
-
-# About Me
+# 👨‍💻 About Me
 
 ### 👋 Who Am I?
 
